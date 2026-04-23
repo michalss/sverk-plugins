@@ -1,0 +1,249 @@
+{
+  "$schema": "https://sverk.dev/schemas/plugin-registry-v1.json",
+  "name": "Sverk Core Plugins",
+  "description": "Plugins bundled with the Sverk CMS source tree.",
+  "updated": "2026-04-23T10:31:51.411Z",
+  "plugins": [
+    {
+      "name": "ads",
+      "displayName": "Ads",
+      "description": "Správa reklamních bannerů a integrace s Google AdSense",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/ads-1.0.0.zip",
+          "sha256": "a5dba456c2d7366ec5af5fa3a6615692036d8564c831364fd9e1f45ec67e1c36",
+          "published": "2026-04-23T10:31:51.435Z"
+        }
+      ]
+    },
+    {
+      "name": "announcements",
+      "displayName": "Announcements",
+      "description": "Systémová oznámení — dismissovatelný banner nahoře na stránce s podporou plánování a expirace.",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/announcements-1.0.0.zip",
+          "sha256": "c2f0962e8dce07484079b7d89d2ed641ab5738d1cc87249ad7fd3c0d39a53068",
+          "published": "2026-04-23T10:31:51.443Z"
+        }
+      ]
+    },
+    {
+      "name": "booking",
+      "displayName": "Booking",
+      "description": "",
+      "author": "Sverk Team",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/booking-1.0.0.zip",
+          "sha256": "307df386ecf6c6245a6a0d052cbbe5e24735e554a6b6e811974a6c9d3d11ab66",
+          "published": "2026-04-23T10:31:51.458Z"
+        }
+      ]
+    },
+    {
+      "name": "contact-form",
+      "displayName": "Contact-form",
+      "description": "Advanced contact form with spam protection, rate limiting, and submission storage.",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/contact-form-1.0.0.zip",
+          "sha256": "cbc9a4e477749e24bf2e4c4e6fca4c999e8c6b3497754bc1952254ca3e8e8697",
+          "published": "2026-04-23T10:31:51.465Z"
+        }
+      ]
+    },
+    {
+      "name": "cookie-consent",
+      "displayName": "Cookie-consent",
+      "description": "GDPR cookie consent banner with customizable categories and styles.",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/cookie-consent-1.0.0.zip",
+          "sha256": "043e2a96b2803af4952f1d2a07588aaa977a0d4c7eb97446083ee59dcbd43c77",
+          "published": "2026-04-23T10:31:51.471Z"
+        }
+      ]
+    },
+    {
+      "name": "countdown",
+      "displayName": "Countdown",
+      "description": "Blok s odpočtem do zadaného data a času.",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/countdown-1.0.0.zip",
+          "sha256": "ba289e80ff70a56a790e15ff478e988e2b20a9cce6d4c86250d639be9d034dc8",
+          "published": "2026-04-23T10:31:51.476Z"
+        }
+      ]
+    },
+    {
+      "name": "file-repo",
+      "displayName": "File-repo",
+      "description": "Veřejný repozitář souborů — pluginy, šablony, balíčky ke stažení s verzováním a statistikami",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/file-repo-1.0.0.zip",
+          "sha256": "6d40977bcc191ca86df767f31e60d4e0540f4cca868f2a57f05140aaa65d1742",
+          "published": "2026-04-23T10:31:51.486Z"
+        }
+      ]
+    },
+    {
+      "name": "footer-newsletter",
+      "displayName": "Footer-newsletter",
+      "description": "Newsletter signup block for footer builder",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/footer-newsletter-1.0.0.zip",
+          "sha256": "3f3d42f1d95ee16d25608f0a6d75507e6542b673b439b6b87b0ddcaf2db6c4b9",
+          "published": "2026-04-23T10:31:51.490Z"
+        }
+      ]
+    },
+    {
+      "name": "forum",
+      "displayName": "Forum",
+      "description": "Pokročilé diskuzní fórum s kategoriemi, vlákny, tagy, notifikacemi a moderací",
+      "latest": "2.0.0",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/forum-2.0.0.zip",
+          "sha256": "fad0dcae21e7227c26ab11db0be0b5a79b2085d18d79a4d5210a24b5145a613c",
+          "published": "2026-04-23T10:31:51.505Z"
+        }
+      ]
+    },
+    {
+      "name": "guestbook",
+      "displayName": "Guestbook",
+      "description": "Kniha návštěv s vlastní DB tabulkou — ukázkový plugin s migrací.",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/guestbook-1.0.0.zip",
+          "sha256": "c138109028210344908c013269710a9b5ecfc059e04b5cafe6458d16aa0b9c74",
+          "published": "2026-04-23T10:31:51.510Z"
+        }
+      ]
+    },
+    {
+      "name": "hello-world",
+      "displayName": "Hello-world",
+      "description": "Ukázkový plugin — demonstruje všechny extension points Sverk plugin systému.",
+      "latest": "2.1.0",
+      "versions": [
+        {
+          "version": "2.1.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/hello-world-2.1.0.zip",
+          "sha256": "de52bf3da9224e4c555e2601df47291a9e0c3e1e726121abc08241cd0c296b71",
+          "published": "2026-04-23T10:31:51.513Z"
+        }
+      ]
+    },
+    {
+      "name": "kanban",
+      "displayName": "Kanban",
+      "description": "Interactive Kanban board block with drag-and-drop support.",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/kanban-1.0.0.zip",
+          "sha256": "6cea122f6e7abab5872df5310d8a4ebaa623176390ce9fcfd323dccc3c9343ad",
+          "published": "2026-04-23T10:31:51.518Z"
+        }
+      ]
+    },
+    {
+      "name": "maintenance-mode",
+      "displayName": "Maintenance-mode",
+      "description": "Zobrazí stránku údržby pro nepřihlášené uživatele. Admini vidí web normálně.",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/maintenance-mode-1.0.0.zip",
+          "sha256": "d290d3f5db39953a7211d7ff3e5b4bbe7bf6b528f00ece1a013fe0278c7ec7fb",
+          "published": "2026-04-23T10:31:51.523Z"
+        }
+      ]
+    },
+    {
+      "name": "seo",
+      "displayName": "Seo",
+      "description": "SEO plugin — meta tagy, Open Graph, sitemap.xml, robots.txt",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/seo-1.0.0.zip",
+          "sha256": "a0d367bbb667aa3b3dd00f2bfd8f74db0ad947bccfe36ce1dbadb41d34d14d19",
+          "published": "2026-04-23T10:31:51.528Z"
+        }
+      ]
+    },
+    {
+      "name": "shop",
+      "displayName": "Shop",
+      "description": "Kompletní e-shop s produkty, košíkem, objednávkami a platbami",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/shop-1.0.0.zip",
+          "sha256": "0efd0c078a64550c507ff1228198d86ba337fc0df3b7d3e97711d57f4fea3fc1",
+          "published": "2026-04-23T10:31:51.547Z"
+        }
+      ]
+    },
+    {
+      "name": "webhooks",
+      "displayName": "Webhooks",
+      "description": "Sends HTTP POST requests to configured URLs when CMS events fire.",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/webhooks-1.0.0.zip",
+          "sha256": "6514a9a6d16f4eed1742117f16fdabba402e07de0488599d70950ac6d97c0ce6",
+          "published": "2026-04-23T10:31:51.552Z"
+        }
+      ]
+    }
+  ]
+}
