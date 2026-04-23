@@ -2,7 +2,7 @@
   "$schema": "https://sverk.dev/schemas/plugin-registry-v1.json",
   "name": "Sverk Core Plugins",
   "description": "Plugins bundled with the Sverk CMS source tree.",
-  "updated": "2026-04-23T10:31:51.411Z",
+  "updated": "2026-04-23T10:41:23.060Z",
   "plugins": [
     {
       "name": "ads",
@@ -242,6 +242,29 @@
           "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/webhooks-1.0.0.zip",
           "sha256": "6514a9a6d16f4eed1742117f16fdabba402e07de0488599d70950ac6d97c0ce6",
           "published": "2026-04-23T10:31:51.552Z"
+        }
+      ]
+    },
+    {
+      "name": "motd",
+      "displayName": "Message of the Day",
+      "description": "Demo plugin proving the Sverk marketplace install flow. Dashboard widget + editor block.",
+      "author": "Michal Sečkař",
+      "homepage": "https://github.com/michalss/sverk-plugins",
+      "license": "MIT",
+      "icon": "megaphone",
+      "tags": [
+        "demo",
+        "widget"
+      ],
+      "latest": "0.1.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "requiredApiVersion": 2,
+          "zipUrl": "https://github.com/michalss/sverk-plugins/releases/download/v1/motd-0.1.0.zip",
+          "sha256": "32614ec554a529f615afd829e6e92399b4681ca26d3a6bd3206670eca3849e86",
+          "published": "2026-04-23T10:41:23.060Z"
         }
       ]
     }
